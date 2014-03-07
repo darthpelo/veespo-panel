@@ -11,6 +11,8 @@ In this example I use [MSSimpleGauge](https://github.com/sabymike/MSSimpleGauge)
 
 use [VEDetailView](https://github.com/darthpelo/veespo-panel/blob/master/VEDetailView.m) class like base to create your custom panels.
 
+Use [VEDoublePanel](https://github.com/darthpelo/veespo-panel/blob/master/VEDoublePanel.m) if you want to implement an animated view with a custom text.
+
 **Gauges**:
 - Colors customization of gauges in MSSimpleGauge.m line [138](https://github.com/darthpelo/veespo-panel/blob/master/Gauges/MSSimpleGauge.m#L138).
 - Annotation customization of gauges in MSAnnotatedGauge.m line [27](https://github.com/darthpelo/veespo-panel/blob/master/Gauges/MSAnnotatedGauge.m#L27).
